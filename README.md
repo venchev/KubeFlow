@@ -1,1 +1,1 @@
-#KubeFlow Pipelines for Kubernetes
+KubeFlow - Pipelines for Kubernetes
